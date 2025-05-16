@@ -16,7 +16,7 @@ This project showcases a Power BI dashboard built using a healthcare dataset wit
 - Excel
 
 ## Dataset:
-A sample healthcare dataset (dummy data) used for analysis. [You can replace this with your own note, e.g., partial data provided due to size limits.]
+A sample healthcare dataset (dummy data) used for analysis.
 
 ## How to Use:
 Open the Power BI file (.pbix) to explore the interactive visuals and slicers (filters).
